@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "D:\\Work\\Tintrotrenarium\\work\\vs\\x64\\Debug\\gdi_chaos.obj",
+            "outputs": [
+                "D:\\Work\\Tintrotrenarium\\work\\vs\\x64\\Debug\\gdi_chaos.cpp.obj.dt.module.json",
+                "D:\\Work\\Tintrotrenarium\\work\\vs\\x64\\Debug\\gdi_chaos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+﻿  gdi_chaos.cpp
+D:\Work\Tintrotrenarium\outputs\gdi_chaos.cpp(125,86): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\Work\Tintrotrenarium\outputs\gdi_chaos.cpp(125,91): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\Work\Tintrotrenarium\outputs\gdi_chaos.cpp(125,109): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\Work\Tintrotrenarium\outputs\gdi_chaos.cpp(131,55): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Work\Tintrotrenarium\outputs\gdi_chaos.cpp(347,44): warning C4189: 'zoom': local variable is initialized but not referenced
+  Tintrotrenarium.vcxproj -> D:\Work\Tintrotrenarium\outputs\x64\Debug\gdi_chaos.exe
